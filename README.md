@@ -21,16 +21,16 @@ Construir modelos preditivos capazes de identificar funcionários com maior risc
 
 ## Estrutura do Projeto
 
-├── data/ # Dados brutos e tratados
-├── notebooks/ # Notebooks com análises e desenvolvimento do modelo
-├── src/ # Scripts Python modularizados
-│ ├── preprocessing.py # Limpeza e transformação dos dados
-│ ├── features.py # Engenharia de variáveis
-│ ├── modeling.py # Treinamento e avaliação dos modelos
-│ └── utils.py # Funções auxiliares
-├── visualizations/ # Gráficos e imagens geradas durante a análise
-├── requirements.txt # Bibliotecas e versões utilizadas
-└── README.md # Documentação do projeto
+ data/ # Dados brutos e tratados
+ notebooks/ # Notebooks com análises e desenvolvimento do modelo
+ src/ # Scripts Python modularizados
+ preprocessing.py # Limpeza e transformação dos dados
+ features.py # Engenharia de variáveis
+ modeling.py # Treinamento e avaliação dos modelos
+ utils.py # Funções auxiliares
+ visualizations/ # Gráficos e imagens geradas durante a análise
+ requirements.txt # Bibliotecas e versões utilizadas
+ README.md # Documentação do projeto
 
 yaml
 Copiar
