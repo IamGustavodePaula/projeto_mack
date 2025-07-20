@@ -51,7 +51,7 @@ Editar
 
 ---
 
-## 📊 Metodologia Aplicada
+## Metodologia Aplicada
 
 1. **Exploração de Dados (EDA)**  
    Renomeação de colunas, visualização de distribuições e análise estatística.
@@ -74,7 +74,7 @@ Editar
 
 ---
 
-## 📈 Métricas Utilizadas
+## Métricas Utilizadas
 
 - F1-Score e F2-Score (ênfase em Recall)
 - AUC-PR (curva precisão-recall)
